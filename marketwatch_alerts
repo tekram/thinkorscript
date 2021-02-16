@@ -1,1 +1,1 @@
-bid - SimpleMovingAvg(length = 20) > 0.07 * bid
+bid - SimpleMovingAvg(length = 20) < 0.07 * bid
